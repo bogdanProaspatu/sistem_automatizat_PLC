@@ -77,13 +77,6 @@ Proiectul include diagramele complete dezvoltate în versiunea 8.3:
 
 ---
 
-## 📂 7. Structura Repository-ului
-* `logic/` -> Fișierele sursă `.lsc` și `.lld`.
-* `docs/` -> Documentația tehnică PDF cu tabele de alocare I/O.
-* `images/` -> Capturi din simulator și diagrame P&ID.
-
----
-
 ## 👨‍💻 Realizat de
 **Nicolae-Bogdan Proaspătu**
 *Student la Automatică și Informatică Aplicată, Universitatea Tehnică de Construcții București*
