@@ -80,7 +80,7 @@ Proiectul include diagramele complete dezvoltate în versiunea 8.3:
 ## 👨‍💻 Realizat de
 **Nicolae-Bogdan Proaspătu**
 *Student la Automatică și Informatică Aplicată, Universitatea Tehnică de Construcții București*
-An universitar 2024–2025
+An universitar 2025–2026
 
 ---
 
